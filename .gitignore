@@ -80,4 +80,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-.vs/Saturation/v15/sqlite3/storage.ide
+/.vs/
