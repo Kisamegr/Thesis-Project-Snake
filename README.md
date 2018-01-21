@@ -1,7 +1,7 @@
 This project is the implementation of my graduation thesis "Developing a 3D video game using Artificial Inteligence techniques".
 The idea was to upgrade the classic Snake experience by introducing up to 3 AI enemies for the player.
 
-[Live Demo Here](https://kisamegr.github.io/Thesis-Project-Snake/)
+[Live Demo Here](https://kisamegr.github.io/Thesis-Project-Snake/) (use arrow keyes or on screen buttons to turn the snake)
 
 ![Game Pic](docs/pics/game.png)
 
