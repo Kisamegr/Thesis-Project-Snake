@@ -3,7 +3,7 @@ The idea was to upgrade the classic Snake experience by introducing up to 3 AI e
 
 [Live Demo Here](https://kisamegr.github.io/Thesis-Project-Snake/)
 
-[Game Pic](docs/pics/game.png)
+![Game Pic](docs/pics/game.png)
 
 ## Multiple player Snake Game 
 The game consists of a grid/map of discrete cells, the players and a randomly spawned food. 
@@ -30,6 +30,7 @@ The basic idea behind the MiniMax algortithm can be summarized into 3 distinct f
 1. For every enemy, generate a tree of states until a given depth, alternating between actions of the player and the enemy itself.
 2. Evaluate the leaf nodes (the deepest level states) with a set of criteria.
 3. Traverse the tree in a down-top manner to find which is the best-case-scenario action to take.
+
 
 
 
